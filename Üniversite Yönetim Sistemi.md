@@ -1,6 +1,6 @@
 # Üniversite Yönetim Sistemi
 
-![image](![Universite Yonetim Sistemi](https://user-images.githubusercontent.com/61789935/184920364-5fafc1dd-9171-4f72-8eeb-8c4752f4fe25.png))
+![image]![Universite Yonetim Sistemi](https://user-images.githubusercontent.com/61789935/184920364-5fafc1dd-9171-4f72-8eeb-8c4752f4fe25.png)
 
 1 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 
